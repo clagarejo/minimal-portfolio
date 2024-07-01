@@ -265,17 +265,6 @@
       "github": "https://github.com/clagarejo/calendar"
     },
     {
-      "name": "TODO List",
-      "isActive": true,
-      "description": "TODO List, primeros pasos en programación",
-      "highlights": [
-        "HMLT 5",
-        "Css",
-        "JavaScript & Vanill"
-      ],
-      "url": "https://todo-list-five-beta.vercel.app/"
-    },
-    {
       "name": "Journal App",
       "isActive": true,
       "description": "Aplicación desarrollada en el curso: React, de cero a experto (HOOKS y MERN)",
