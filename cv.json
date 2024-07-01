@@ -3,9 +3,9 @@
     "name": "Yan Carlos Lagarejo Raga",
     "label": "Full Stack Developer con más de 2 años de experiencia y con ganas de seguir aprendiendo",
     "image": "/perfil.jpg",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
+    "email": "clagarejo89@gmail.com",
+    "phone": "3213699727",
+    "url": "https://portfolio-yan-lagarejo.vercel.app/",
     "summary": "Ingeniero en Sistemas con más de 2 años de experiencia en el Desarrollo de Software en Startups. Donde me he caracterizado por mi pasión por la resolución de problemas y la creación de soluciones tecnológicas innovadoras. He trabajado en diferentes proyectos implementando mis conocimientos de Frontend y Backend..",
     "location": {
       "address": "",
@@ -32,7 +32,7 @@
       "name": "Laika Mascotas",
       "position": "Full Stack Developer",
       "startDate": "2021-11-01",
-      "endDate": "2024-30-01",
+      "endDate": "2023-01-31",
       "url": null,
       "summary": "Desarrollo Frontend: Creación de interfaces para los módulos en el BackOffice, esto acompañando tanto de producto como diseño. Desarrollo Backend: Construir y gestionar la base de datos y la respectiva lógica de base de datos permitiendo la comunicación entre el Frontend y el Backend. Mantenimiento y Corrección de bug: Solucionar problemas en el código, realizar mantenimiento y mejoras continuas en el BackOffice..",
       "highlights": [
@@ -62,124 +62,177 @@
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [
+    {
+      "organization": null,
+      "position": null,
+      "url": null,
+      "startDate": null,
+      "endDate": null,
+      "summary": null,
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Corporación Unificada Nacional CUN",
+      "url": "https://cun.edu.co/",
+      "area": "Ingeniero en sistemas",
+      "studyType": "University",
+      "startDate": "2014-01-25",
+      "endDate": "2020-06-15",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Udemy",
+      "url": "https://cun.edu.co/",
+      "area": "Master en frameworks, Desarrollo de aplicaciones web",
+      "studyType": "University",
+      "startDate": "2020-01-25",
+      "endDate": "2020-06-15",
+      "score": "4.0",
+      "courses": [
+        "Node Js",
+        "Vue JS",
+        "Angular JS",
+        "React JS",
+        "Consumo de APis"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": null,
+      "date": null,
+      "awarder": null,
+      "summary": null
+    }
+  ],
+  "certificates": [
+    {
+      "name": null,
+      "date": null,
+      "issuer": null,
+      "url": null
+    }
+  ],
+  "publications": [
+    {
+      "name": null,
+      "publisher": null,
+      "releaseDate": null,
+      "url": null,
+      "summary": null
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Desarrollo Web",
+        "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
-      "level": "Avanzado",
+      "level": "Basico",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Basico",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
-      "name": "Node",
-      "level": "Avanzado",
+      "name": "Node Js",
+      "level": "Basico",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
+      "level": "Intermedio",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
       ]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
       "name": "Next.js",
-      "level": "Avanzado",
+      "level": "Basico",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     }
   ],
@@ -187,23 +240,17 @@
     {
       "language": "Spanish",
       "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "null",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {}
+  ],
   "projects": [
     {
       "name": "Calendar",
@@ -214,59 +261,42 @@
         "Vuex",
         "localStorage"
       ],
-      "url": "https://calendar-sigma-black.vercel.app/"
+      "url": "https://calendar-sigma-black.vercel.app/",
+      "github": "https://github.com/clagarejo/calendar"
     },
     {
       "name": "Avocado",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Carrito de compras de aguacates. Proyecto realizado en un curso en platzi",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
+        "Next Js",
+        "Carrito de compras",
         "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
+      ]
     },
     {
-      "name": "Codember",
+      "name": "Journal App",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Aplicación desarrollada en el curso: React, de cero a experto (HOOKS y MERN)",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Firebase",
+        "React",
+        "Redux",
+        "Material Theme"
       ],
-      "url": "https://codember.dev"
+      "url": "https://journa.vercel.app/auth/login",
+      "github": "https://github.com/clagarejo/journal-app"
     },
     {
-      "name": "codi.link",
+      "name": "TODO List",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "TODO List, primeros pasos en React, esta aplicación la realice hace varios años",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "localStorage",
+        "React",
+        "Css"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://todo-zeta-tan.vercel.app/"
     }
   ]
 }
