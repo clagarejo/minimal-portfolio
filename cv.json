@@ -265,15 +265,15 @@
       "github": "https://github.com/clagarejo/calendar"
     },
     {
-      "name": "Avocado",
+      "name": "TODO List",
       "isActive": true,
-      "description": "Carrito de compras de aguacates. Proyecto realizado en un curso en platzi",
+      "description": "TODO List, primeros pasos en programación",
       "highlights": [
-        "Next Js",
-        "Carrito de compras",
-        "JavaScript & TypeScript"
+        "HMLT 5",
+        "Css",
+        "JavaScript & Vanill"
       ],
-      "url": "https://avocados.vercel.app/"
+      "url": "https://todo-list-five-beta.vercel.app/"
     },
     {
       "name": "Journal App",
