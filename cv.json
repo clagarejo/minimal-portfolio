@@ -166,26 +166,6 @@
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Basico",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node Js",
-      "level": "Basico",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "JavaScript",
-        "Servidor"
-      ]
-    },
-    {
       "name": "MySQL",
       "level": "Intermedio",
       "keywords": [
