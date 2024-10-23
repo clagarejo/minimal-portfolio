@@ -6,6 +6,7 @@ import JavaScript from "@/icons/javascript.astro";
 import TypeScript from "@/icons/type.astro";
 import React from "@/icons/react.astro";
 import Node from "@/icons/node.astro";
+import Vue from "@/icons/vue.astro";
 import MySQL from "@/icons/sql.astro";
 import Git from "@/icons/git.astro";
 import GitHub from "@/icons/GitHub.astro";
@@ -24,6 +25,7 @@ const SKILLS_ICONS: Record<string, any> = {
   TypeScript,
   React,
   Node,
+  Vue,
   MySQL,
   Git,
   GitHub,
@@ -41,11 +43,13 @@ const SKILLS_ICONS: Record<string, any> = {
     {
       skills.map(({ name }) => {
         const iconName =
-          name === "Next.js"
-            ? "Next"
-            : name || name === "Node.js"
-              ? "Node"
-              : name;
+          name === "Next.js" 
+            ? "Next" 
+            : name === "Node.js" 
+              ? "Node" 
+              : name === "Vue.js"
+               ? "Vue"
+               : name
         const Icon = SKILLS_ICONS[iconName];
 
         return (

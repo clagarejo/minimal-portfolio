@@ -216,6 +216,13 @@
       ]
     },
     {
+      "name": "Vue.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Backend"
+      ]
+    },
+    {
       "name": "Node.js",
       "level": "Avanzado",
       "keywords": [
@@ -266,7 +273,30 @@
       "github": "https://github.com/clagarejo/journal-app"
     },
     {
-      "name": "TODO List",
+      "name": "Heroes App",
+      "isActive": true,
+      "description": "Aplicación de heroes desarrollada con los conocimientos adquiridos en el curso: React, de cero a experto (HOOKS y MERN)",
+      "highlights": [
+        "React",
+        "Redux"
+      ],
+      "url": "https://heroes-roijgl48z-yan-lagarejos-projects.vercel.app/login",
+      "github": "https://github.com/clagarejo/heroes-spa"
+    },
+    {
+      "name": "Avocados App",
+      "isActive": true,
+      "description": "Aplicación desarrollada en un curso para aprender Next Js en Platzi",
+      "highlights": [
+        "Firebase",
+        "React",
+        "Redux",
+        "Material Theme"
+      ],
+      "url": "https://avocados.vercel.app/"
+    },
+    {
+      "name": "TODO List (React)",
       "isActive": true,
       "description": "TODO List, primeros pasos en React, esta aplicación la realice hace varios años",
       "highlights": [
@@ -275,6 +305,31 @@
         "Css"
       ],
       "url": "https://todo-zeta-tan.vercel.app/"
+    },
+    {
+      "name": "TODO List (Vanilla Js)",
+      "isActive": true,
+      "description": "TODO List creado con vanilla js",
+      "highlights": [
+        "localStorage",
+        "Javascript",
+        "html",
+        "Css"
+      ],
+      "url": "https://todo-list-five-beta.vercel.app/",
+      "github": "https://github.com/clagarejo/ListTodo"
+    },
+    {
+      "name": "Presupesto App",
+      "isActive": true,
+      "description": "Aplicación para llevar tus calculos",
+      "highlights": [
+        "Javascript",
+        "html",
+        "Css"
+      ],
+      "url": "https://presupuesto-ivory.vercel.app/",
+      "github": "https://github.com/clagarejo/Presupuestos"
     }
   ]
 }
