@@ -273,17 +273,6 @@
       "github": "https://github.com/clagarejo/journal-app"
     },
     {
-      "name": "Heroes App",
-      "isActive": true,
-      "description": "Aplicación de heroes desarrollada con los conocimientos adquiridos en el curso: React, de cero a experto (HOOKS y MERN)",
-      "highlights": [
-        "React",
-        "Redux"
-      ],
-      "url": "https://heroes-spa-navy.vercel.app/login",
-      "github": "https://github.com/clagarejo/heroes-spa"
-    },
-    {
       "name": "Avocados App",
       "isActive": true,
       "description": "Aplicación desarrollada en un curso para aprender Next Js en Platzi",
