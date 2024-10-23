@@ -296,6 +296,28 @@
       "url": "https://todo-zeta-tan.vercel.app/"
     },
     {
+      "name": "Poke Game",
+      "isActive": true,
+      "description": "Juego realizado consumiendo la API de pokemon",
+      "highlights": [
+        "Vue",
+        "Css"
+      ],
+      "url": "https://pokemon-game-pi.vercel.app/",
+      "github": "https://github.com/clagarejo/pokemon-game"
+    },
+    {
+      "name": "Exchanges",
+      "isActive": true,
+      "description": "Esta aplicación fue realizada en un curso de Vue js en Platzi",
+      "highlights": [
+        "Vue",
+        "Css"
+      ],
+      "url": "https://exchange-opal.vercel.app/",
+      "github": "https://github.com/clagarejo/Exchanges"
+    },
+    {
       "name": "TODO List (Vanilla Js)",
       "isActive": true,
       "description": "TODO List creado con vanilla js",
