@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Yan Carlos Lagarejo Raga",
-    "label": "Full Stack Developer con mas de 2 años de experiencia, con énfasis en el desarrollo frontend.",
+    "label": "Ingeniero en sistemas",
     "image": "/perfil.jpg",
     "email": "clagarejo89@gmail.com",
     "phone": "3213699727",
     "url": "https://portfolio-yan-lagarejo.vercel.app/",
-    "summary": "Ingeniero en Sistemas con mas de 2 años de experiencia en el Desarrollo de Software en Startups. Donde me he caracterizado por mi pasión por la resolución de problemas y la creación de soluciones tecnológicas innovadoras. He trabajado en diferentes proyectos implementando mis conocimientos de Frontend y Backend..",
+    "summary": "Soy un desarrollador de software apasionado por la tecnología, las buenas prácticas y el código limpio. Actualmente cuento con mas de (2) años de experiencia como Fullstack Developer",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -34,7 +34,7 @@
       "startDate": "2021-11-01",
       "endDate": "2023-01-31",
       "url": null,
-      "summary": "Desarrollo Frontend: Creación de interfaces para los módulos en el BackOffice, esto acompañando tanto de producto como diseño. Desarrollo Backend: Construir y gestionar la base de datos y la respectiva lógica de base de datos permitiendo la comunicación entre el Frontend y el Backend. Mantenimiento y Corrección de bug: Solucionar problemas en el código, realizar mantenimiento y mejoras continuas en el BackOffice..",
+      "summary": "Como Full Stack Developer, estuve trabajando con tecnologías como Vue.js y React.js en el Frontend, y PHP, Laravel, y SQL en el Backend.",
       "highlights": [
         "Started the company"
       ]
@@ -45,7 +45,7 @@
       "startDate": "2021-01-25",
       "endDate": "2021-10-21",
       "url": null,
-      "summary": "Coordinación de incidentes: Coordinar el procedimiento, el paso a paso de posibles incidentes que se puedan presentar en el backoffice, asegurando la restauración rápida de los serviciosSoporte en el BackOffice: Asignación de permisos y roles, administración de usuarios, reporte de bugs al team de Desarrollo.",
+      "summary": "Coordinar el procedimiento, el paso a paso de posibles incidentes que se puedan presentar en el backoffice, asegurando la restauración rápida de los servicios. También me encargaba del reporte de posibles bugs al equipo de desarrollo.",
       "highlights": [
         "Started the company"
       ]
@@ -56,7 +56,7 @@
       "startDate": "2019-04-01",
       "endDate": "2019-09-20",
       "url": null,
-      "summary": "Atención al cliente: Brindar asistencia a usuarios, contestando preguntas y resolviendo dudas tanto de Software como Hardware. Instalación de software: Brindar ayuda en la instalación, configuración y actualización de programas en los equipos de los usuariosConfiguración de hardware: Configurar y mantener el hardware, computadoras, impresoras entre otros dispositivos periféricos..",
+      "summary": "Como practicante universitario, desempeñé labores de atención al cliente, brindando asistencia a usuarios, realizando la instalación de software y la configuración de hardware. Además, me encargué del mantenimiento de equipos de cómputo e impresoras.",
       "highlights": [
         "Started the company"
       ]
@@ -247,6 +247,22 @@
     {}
   ],
   "projects": [
+    {
+      "name": "Task Manager",
+      "isActive": true,
+      "description": "Administrador de tareas",
+      "highlights": [
+        "React.js",
+        "Zustand",
+        "CSS",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "localStorage"
+      ],
+      "url": "https://task-manager-cliente.vercel.app/",
+      "github": "https://github.com/clagarejo/task-manager"
+    },
     {
       "name": "Calendar",
       "isActive": true,
