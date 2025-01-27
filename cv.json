@@ -248,6 +248,24 @@
   ],
   "projects": [
     {
+      "name": "Gestio Pro",
+      "isActive": true,
+      "description": "Administrador de productos",
+      "highlights": [
+        "React.js",
+        "Zustand",
+        "CSS",
+        "SASS",
+        "Jest",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "localStorage"
+      ],
+      "url": "https://gestion-pro-cliente.vercel.app/",
+      "github": "https://github.com/clagarejo/gestion-pro"
+    },
+    {
       "name": "Task Manager",
       "isActive": true,
       "description": "Administrador de tareas",
@@ -255,6 +273,7 @@
         "React.js",
         "Zustand",
         "CSS",
+        "Jest",
         "Node.js",
         "Express",
         "MongoDB",
